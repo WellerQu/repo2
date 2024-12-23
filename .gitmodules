@@ -1,0 +1,3 @@
+[submodule "repo3"]
+	path = repo3
+	url = git@github.com:WellerQu/repo3.git
